@@ -1,138 +1,140 @@
 [
   {
-    "year": 2023,
+    "year": 2024,
     "months": [
       {
         "month": "September",
         "events": [
-          { "day": "10", "event": "Marlboro Day" },
-          { "day": "11", "event": "First Meeting" },
-          { "day": "18", "event": "Regular Meeting" },
-          { "day": "22-24", "event": "Laser Tag/Scout Olympics (NJ)" },
-          { "day": "25", "event": "No Meeting" }
+          { "day": "8", "event": "Marlboro Day" },
+          { "day": "9", "event": "First Meeting" },
+          { "day": "16", "event": "Regular Meeting" },
+          { "day": "23", "event": "Regular Meeting" },
+          { "day": "27-29", "event": "Shooting Trip" },
+          { "day": "29", "event": "PLC Meeting" }
+          { "day": "30", "event": "Regular/Parents Meetings" }
         ]
       },
       {
         "month": "October",
         "events": [
-          { "day": "1", "event": "PLC/Committee" },
-          { "day": "2", "event": "Regular/Parents Meeting" },
-          { "day": "9", "event": "Regular Meeting" },
-          { "day": "14-15", "event": "Pack Campout-Allaire" },
-          { "day": "16", "event": "Regular Meeting" },
-          { "day": "23", "event": "Regular Meeting" },
-          { "day": "27-29", "event": "Trip" },
-          { "day": "30", "event": "Court of Honor" }
+          { "day": "5-6", "event": "Pack Campout" },
+          { "day": "7", "event": "Regular Meeting" },
+          { "day": "14", "event": "Regular Meeting" },
+          { "day": "21", "event": "Regular Meeting" },
+          { "day": "25-29", "event": "Hiking Trip" },
+          { "day": "28", "event": "Regular Meeting" },
         ]
       },
       {
         "month": "November",
         "events": [
-          { "day": "5", "event": "PLC" },
-          { "day": "6", "event": "Regular Meeting" },
-          { "day": "13", "event": "Regular Meeting" },
-          { "day": "17-19", "event": "Hiking Sunfish Pond (NJ)" },
-          { "day": "20", "event": "Regular Meeting" },
-          { "day": "27", "event": "Regular Meeting" }
+          { "day": "3", "event": "PLC" },
+          { "day": "3", "event": "Hymn Festival" },
+          { "day": "4", "event": "Court of Honor" },
+          { "day": "11", "event": "Regular Meeting" },
+          { "day": "15-17", "event": "Navy Football" },
+          { "day": "18", "event": "Regular Meeting" },
+          { "day": "25", "event": "Regular Meeting" }
         ]
       },
       {
         "month": "December",
         "events": [
-          { "day": "2", "event": "Church Decorating" },
-          { "day": "3", "event": "Multicultural Day" },
-          { "day": "3", "event": "PLC" },
-          { "day": "4", "event": "Regular Meeting" },
-          { "day": "8-10", "event": "NYC" },
-          { "day": "11", "event": "Regular Meeting" },
-          { "day": "18", "event": "Holiday Party" },
-          { "day": "25", "event": "No Meeting" }
+          { "day": "1", "event": "Multicultural Day" },
+          { "day": "2", "event": "Regular Meeting" },
+          { "day": "7", "event": "Church Decorating" },
+          { "day": "8", "event": "PLC" },
+          { "day": "9", "event": "Regular Meeting" },
+          { "day": "13-15", "event": "Boston Freedom Trail" },
+          { "day": "16", "event": "Holiday Party" },
+          { "day": "23", "event": "No Meeting" },
+          { "day": "30", "event": "No Meeting" }
         ]
       }
     ]
   },
   {
-    "year": 2024,
+    "year": 2025,
     "months": [
       {
         "month": "January",
         "events": [
-          { "day": "6", "event": "Church Undecorating" },
-          { "day": "7", "event": "PLC/Committee" },
-          { "day": "8", "event": "Regular Meeting" },
-          { "day": "13-14", "event": "Lock In" },
-          { "day": "15", "event": "Regular Meeting" },
-          { "day": "22", "event": "Regular Meeting" },
-          { "day": "26-28", "event": "Goddard (MD)" },
-          { "day": "29", "event": "Regular Meeting" }
+          { "day": "4", "event": "Church Undecorating" },
+          { "day": "5", "event": "PLC/Committee" },
+          { "day": "6", "event": "Regular Meeting" },
+          { "day": "11-12", "event": "Lock In" },
+          { "day": "13", "event": "Regular Meeting" },
+          { "day": "20", "event": "Regular Meeting" },
+          { "day": "24-26", "event": "Baltimore Aquarium" },
+          { "day": "27", "event": "Regular Meeting" }
         ]
       },
       {
         "month": "February",
         "events": [
-          { "day": "3", "event": "Klondike" },
-          { "day": "4", "event": "Scout Sunday" },
-          { "day": "4", "event": "PLC" },
-          { "day": "5", "event": "Regular Meeting" },
-          { "day": "11", "event": "Day Ski Trip" },
-          { "day": "12", "event": "Regular Meeting" },
-          { "day": "19", "event": "No Meeting" },
-          { "day": "26", "event": "Court of Honor" }
+          { "day": "1", "event": "Klondike" },
+          { "day": "2", "event": "PLC" },
+          { "day": "3", "event": "Regular Meeting" },
+          { "day": "9", "event": "Scout Sunday" },
+          { "day": "10", "event": "Regular Meeting" },
+          { "day": "17", "event": "No Meeting" },
+          { "day": "21-23", "event": "Catamount Skiing" },
+          { "day": "24", "event": "Court of Honor" }
         ]
       },
       {
         "month": "March",
         "events": [
-          { "day": "1-3", "event": "Catamount (MA)" },
-          { "day": "3", "event": "PLC/Committee" },
-          { "day": "4", "event": "Regular Meeting" },
-          { "day": "11", "event": "Regular Meeting" },
-          { "day": "18", "event": "Regular/Parents Meeting" },
-          { "day": "22-24", "event": "Hunt Club (NJ)" },
-          { "day": "25", "event": "Regular Meeting" }
+          { "day": "2", "event": "PLC/Committee" },
+          { "day": "3", "event": "Regular Meeting" },
+          { "day": "10", "event": "Regular Meeting" },
+          { "day": "17", "event": "Regular/Parents Meeting" },
+          { "day": "21-23", "event": "Hunt Club (NJ)" },
+          { "day": "24", "event": "Regular Meeting" },
+          { "day": "31", "event": "Regular Meeting" }
         ]
       },
       {
         "month": "April",
         "events": [
-          { "day": "1", "event": "No Meeting" },
-          { "day": "7", "event": "PLC" },
-          { "day": "8", "event": "Summer Camp/Regular Meeting" },
-          { "day": "12-14", "event": "Outdoor Laser Tag (NJ)" },
-          { "day": "15", "event": "Regular Meeting" },
-          { "day": "22", "event": "No Meeting" },
-          { "day": "29", "event": "Regular Meeting" }
+          { "day": "2", "event": "PLC" },
+          { "day": "7", "event": "Summer Camp/Regular Meeting" },
+          { "day": "10", "event": "Regular Meeting" },
+          { "day": "14", "event": "No Meeting" },
+          { "day": "21", "event": "Regular Meeting" },
+          { "day": "25-27", "event": "Caving Trip" },
+          { "day": "28", "event": "Regular Meeting" }
         ]
       },
       {
         "month": "May",
         "events": [
-          { "day": "5", "event": "PLC/Committee" },
-          { "day": "6", "event": "Regular Meeting" },
-          { "day": "13", "event": "Regular Meeting" },
-          { "day": "17-19", "event": "Whitewater (PA)" },
-          { "day": "20", "event": "Regular Meeting" },
-          { "day": "25", "event": "Flag Placement" },
-          { "day": "27", "event": "No Meeting" }
+          { "day": "4", "event": "PLC/Committee" },
+          { "day": "5", "event": "Regular Meeting" },
+          { "day": "12", "event": "Regular Meeting" },
+            { "day": "16-18", "event": "Climbing Trip" },
+          { "day": "19", "event": "Regular Meeting" },
+          { "day": "24", "event": "Flag Placement" },
+          { "day": "26", "event": "Memorial Day Parade" }
         ]
       },
       {
         "month": "June",
         "events": [
-          { "day": "2", "event": "PLC" },
-          { "day": "3", "event": "Regular Meeting/ TMR Paper Work Due" },
-          { "day": "10", "event": "Summer Camp/Regular Meeting" },
-          { "day": "14-16", "event": "Coast Guard (NJ)" },
-          { "day": "17", "event": "Court of Honor" }
+          { "day": "1", "event": "PLC" },
+          { "day": "2", "event": "Regular Meeting/ TMR Paper Work Due" },
+          { "day": "9", "event": "Summer Camp/Regular Meeting" },
+          { "day": "13-15", "event": "Historic Trip" },
+          { "day": "16", "event": "Court of Honor" }
         ]
       },
       {
         "month": "July",
-        "events": [{ "day": "21-27", "event": "Summer Camp" }]
+        "events": [{ "day": "20-26", "event": "Summer Camp" }]
       },
       {
         "month": "August",
-        "events": [{ "day": "9", "event": "Troop Fishing Trip" }]
+        "events": [{ "day": "8", "event": "Troop Fishing Trip" }]
       }
     ]
   }
