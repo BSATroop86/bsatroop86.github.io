@@ -7,7 +7,7 @@ nav_groups:
 
 ## <b>Life to Eagle</b>
 - [Downloadable Electronic Eagle Service Project Workbook](http://www.scouting.org/scoutsource/BoyScouts/AdvancementandAwards/EagleWorkbookProcedures.aspx)
-- [Eagle Scout Application Form](http://www.scouting.org/filestore/pdf/512-728_WB_fillable.pdf)
+- [Eagle Scout Application Form](https://www.scouting.org/wp-content/uploads/2025/01/512-72825-Eagle-Scout-Application.pdf)
 - [Eagle Requirement 7](./content/Eagle-Req7.docx)
 - [Sample time tracker](./content/Russ%20eagle%20scout%20work%20logs.pdf)
 - [Steps to Reaching The Eagle Scout Rank](./content/Steps%20to%20Reaching%20the%20Eagle%20Scout%20Rank%202019.docx)
