@@ -89,10 +89,10 @@
           { "day": "3", "event": "Regular Meeting" },
           { "day": "10", "event": "Regular Meeting" },
           { "day": "17", "event": "Regular/Parents Meeting" },
-          { "day": "21-23", "event": "Hunt Club (NJ)" },
           { "day": "24", "event": "Regular Meeting" },
-          { "day": "31", "event": "Regular Meeting" }
-        ]
+          { "day": "31", "event": "Regular Meeting" }, 
+          { "day": "28-29", "event": "Hunt Club (NJ)" }
+                ]
       },
       {
         "month": "April",
