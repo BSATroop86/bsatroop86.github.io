@@ -97,9 +97,8 @@
       {
         "month": "April",
         "events": [
-          { "day": "2", "event": "PLC" },
+          { "day": "6", "event": "PLC" },
           { "day": "7", "event": "Summer Camp/Regular Meeting" },
-          { "day": "10", "event": "Regular Meeting" },
           { "day": "14", "event": "No Meeting" },
           { "day": "21", "event": "Regular Meeting" },
           { "day": "25-27", "event": "Caving Trip" },
