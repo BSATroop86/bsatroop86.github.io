@@ -13,12 +13,9 @@ nav_groups:
 - [Steps to Reaching The Eagle Scout Rank](./content/Steps%20to%20Reaching%20the%20Eagle%20Scout%20Rank%202019.docx)
 - [Examples of Eagle Scouts Projects](./content/Eagle%20Scout%20Service%20Projects.pdf)
 - Eagle Recommendation Letters
-  - [From Parent](https://www.monmouthbsa.org/files/12559/recommendationparents-pdf)
-  - [From Neighbor](https://www.monmouthbsa.org/files/12558/recommendationneighbor-pdf)
-  - [From Teacher](https://www.monmouthbsa.org/files/12560/recommendationteacher-pdf)
-  - [From Religious Leader](https://www.monmouthbsa.org/files/12561/recommendationreligious-pdf)
-  - [From another Reference](https://www.monmouthbsa.org/files/12558/recommendationneighbor-pdf)
-  - [From Employer](https://www.monmouthbsa.org/files/12562/Letter-of-Recommendation-Employer-2011-pdf)
+- The Prospective Eagle Scout should start requesting Letters of Recommendation from 4 different individuals listed on the application as soon as possible. A sample template link is below. Requested references may be returned to the Scout in a sealed envelope or sent to a designated unit adult for safekeeping until the Eagle Board of Review.
+- These individuals can be teachers, employers, coaches, etc., from people who know you well. Unfortunately, we cannot take the letters from parents or relatives.
+  - [Sample Template](https://www.monmouthcouncilscouting.org/files/56487/letter-of-recommendation-2025)
 
 ## <b>[Scholarships](https://nesa.org/for-eagle-scouts/scholarships/)</b>
 
