@@ -12,7 +12,7 @@ nav_groups:
 - [Sample time tracker](./content/Russ%20eagle%20scout%20work%20logs.pdf)
 - [Steps to Reaching The Eagle Scout Rank](./content/Steps%20to%20Reaching%20the%20Eagle%20Scout%20Rank%202019.docx)
 - [Examples of Eagle Scouts Projects](./content/Eagle%20Scout%20Service%20Projects.pdf)
-- <b>Eagle Recommendation Letters</b></n>
+- <b>Eagle Recommendation Letters:</b>
     The Prospective Eagle Scout should start requesting Letters of Recommendation from 4 different individuals listed on the application as soon as possible. A sample template link is below. Requested references may be returned to the Scout in a sealed envelope or sent to a designated unit adult for safekeeping until the Eagle Board of Review.
     These individuals can be teachers, employers, coaches, etc., from people who know you well. Unfortunately, we cannot take the letters from parents or relatives.
     [Sample Template for Letter or Recommendation](https://www.monmouthcouncilscouting.org/files/56487/letter-of-recommendation-2025)
