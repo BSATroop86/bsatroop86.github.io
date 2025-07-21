@@ -15,7 +15,7 @@ nav_groups:
 - <b>Eagle Recommendation Letters:</b>
     The Prospective Eagle Scout should start requesting Letters of Recommendation from 4 different individuals listed on the application as soon as possible. The template link is below. Requested references may be returned to the Scout in a sealed envelope or sent to a designated unit adult for safekeeping until the Eagle Board of Review.
     These individuals can be teachers, employers, coaches, etc., from people who know you well. Unfortunately, we cannot take the letters from parents or relatives.
-    - [Template for Letter or Recommendation](https://www.monmouthcouncilscouting.org/files/56487/letter-of-recommendation-2025)
+    - [Template for Letter of Recommendation](https://www.monmouthcouncilscouting.org/files/56487/letter-of-recommendation-2025)
 
 ## <b>[Scholarships](https://nesa.org/for-eagle-scouts/scholarships/)</b>
 
